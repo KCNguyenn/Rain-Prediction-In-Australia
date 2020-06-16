@@ -9,5 +9,5 @@ R
 ### Technique(s): 
 k-means Clustering, Support Vector Machine
 
-### Files included: 
+### File(s) included: 
 R Code, R Workspace, Dataset, Data description file, Final report
