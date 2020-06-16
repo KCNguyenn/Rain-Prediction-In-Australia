@@ -5,5 +5,9 @@ The project requirement is to perform one unsupervised analysis and one supervis
 
 ### Tool(s): 
 R
+
 ### Technique(s): 
 k-means Clustering, Support Vector Machine
+
+### Files included: 
+R Code, R Workspace, Dataset, Data description file, Final report
