@@ -7,7 +7,7 @@ The project requirement is to perform one unsupervised analysis and one supervis
 R
 
 ### Technique(s): 
-k-means Clustering, Support Vector Machine
+Artificial Neural Network, k-means Clustering, k-Nearest Neighbors, Support Vector Machine
 
 ### File(s) included: 
 R Code, R Workspace, Dataset, Data description file, Final report
